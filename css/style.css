@@ -27,3 +27,43 @@ body {
 }
 
 /* Indicate where your code starts and ends */
+
+/* Ugwu Kasie style starts here */
+.k-card {
+    background-color: rgb(239, 52, 52);
+    border: 2px solid rgb(255, 255, 255);
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border-radius: 3px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.721);
+}
+.k-card .k-title {
+    padding: 0 20px;
+}
+.k-card .k-text {
+    margin: 10px 0;
+}
+.list {
+    margin-left: 20px;
+}
+.list li {
+    margin-bottom: 5px;
+}
+.list li:first-child {
+    margin-top: 5px;
+}
+.k-card .k-cancel {
+    background-color: rgb(219, 33, 33);
+    position: absolute;
+    border-radius: 3px;
+    top: -10px;
+    right: -10px;
+}
+.k-card .k-pin {
+    position: absolute;
+    top: -5%;
+    left: 50%;
+}
+/* Ugwu Kasie style ends here */
