@@ -94,3 +94,43 @@ li{
     margin-bottom: 10px;
 }
 /* Iyanuoluwa Odulate style ends here */
+
+/* Halimat Adebakin style starts here */
+.ha-card {
+    background-color: purple;
+    border: 2px solid rgb(255, 255, 255);
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border-radius: 3px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.721);
+}
+.ha-card .ha-title {
+    padding: 0 20px;
+}
+.ha-card .ha-text {
+    margin: 10px 0;
+}
+.ha-list {
+    margin-left: 20px;
+}
+.ha-list li {
+    margin-bottom: 5px;
+}
+.ha-list li:first-child {
+    margin-top: 5px;
+}
+.ha-card .ha-cancel {
+    background-color: rgb(219, 33, 33);
+    position: absolute;
+    border-radius: 3px;
+    top: -10px;
+    right: -10px;
+}
+.ha-card .ha-pin {
+    position: absolute;
+    top: -5%;
+    left: 50%;
+}
+/* Halimat Adebakin style ends here */
