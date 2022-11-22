@@ -67,3 +67,30 @@ body {
     left: 50%;
 }
 /* Ugwu Kasie style ends here */
+
+/* Iyanuoluwa Odulate style ends here */
+.iy-card{
+    width: 300px;
+    height: 300px;
+    background-color: #9d0208;
+    border-style: solid;
+    border-color: #f48c06;
+    padding: 30px;
+}
+
+.iy-title{
+    margin-left: 9px;
+}
+
+.iy-text{
+    margin: 10px 5px;
+}
+
+.iy-text p{
+    margin-bottom: 5px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+/* Iyanuoluwa Odulate style ends here */
