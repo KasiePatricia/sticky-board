@@ -134,3 +134,46 @@ li{
     left: 50%;
 }
 /* Halimat Adebakin style ends here */
+
+
+/* Taofeekat Olorunkosebi style starts here */
+
+.tee-card {
+    background-color: rgb(134, 61, 61);
+    border: 2px solid rgb(255, 196, 196);
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+    border-radius: 3px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.721);
+}
+.tee-card .tee-title {
+    padding: 0 20px;
+}
+.tee-card .tee-text {
+    margin: 10px 0;
+}
+.tee-list {
+    margin-left: 20px;
+}
+.tee-list li {
+    margin-bottom: 5px;
+}
+.tee-list li:first-child {
+    margin-top: 5px;
+}
+.tee-card .tee-cancel {
+    background-color: rgb(219, 33, 33);
+    position: absolute;
+    border-radius: 3px;
+    top: -10px;
+    right: -10px;
+}
+.tee-card .tee-pin {
+    position: absolute;
+    top: -5%;
+    left: 50%;
+}
+
+/* Taofeekat Olorunkosebi style ends here */
